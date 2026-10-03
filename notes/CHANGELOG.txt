@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+CHANGELOG.txt
+9B Oct 3 2026: first Ollama pin, Odysseus tools, Q4 path

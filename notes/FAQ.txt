@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+FAQ.txt
+9B Oct 3 2026 pin. Qwen 3.5 9B fine-tune. Q4 on 16 GB.

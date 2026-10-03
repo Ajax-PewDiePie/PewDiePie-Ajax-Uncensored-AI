@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+USAGE.txt
+install Ollama, ollama pull ajax:9b, point Odysseus at 11434
